@@ -28,3 +28,6 @@ API_SECRET = 'your_api_secret'
 
 If you need help with installation, setup, or customization, feel free to contact me on Telegram
 https://t.me/Pin_Gvinn
+
+If this script has helped you, tips are much appreciated:
+USDT (BEP-20) 0x191baf84fa45a0ee9fbf1b261c41dfa0af12fb50
