@@ -1,6 +1,6 @@
-# Binance-level-trading
+# Binance Levels Trading Bot
 
-The Binance Level Trading v.1_0 bot analyzes the last 24 hourly candles on all USDT futures pairs on the Binance (you can specify a list of coins to exclude from the analysis) and places a buy order (if the extreme is the minimum) or a sell order (if the extreme is the maximum)
+The Binance Levels Trading Bot v.1_0 bot analyzes the last 24 hourly candles on all USDT futures pairs on the Binance (you can specify a list of coins to exclude from the analysis) and places a buy order (if the extreme is the minimum) or a sell order (if the extreme is the maximum)
 
 To run the bot on your laptop, you need to follow a few steps:
 
